@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\ff134215dfe6136b5a0a4d8f5d4f57e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\ad21ac0ba5211f0a5a1d0073cc642abb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\eea13a7eb3300fa97d6c1051147a9a6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\f26265d25dd0282cadba258051a8e1be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\af404f89b579ace3b096237fb16e50e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\a46d87017e1f5bc75b486e5f6510b7b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\02892268b9f84f0f701e0bef10374031\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\6846fa7b96fd46667743ae1b372a4e8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\45752c3b386131d643b699c52946adee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\ce891467ffff2b5ca1d9e8c7523d4f63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\a58db0d41a20296ddccd8e0991e8951b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\1d0dc8a92ccca2e88099f770381247d7\AndroidManifest.xml:17:1-24:12
+INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:19:5-23
+		INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+		INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+		INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+		INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+application
+ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:25:5-38:19
+	android:label
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:29:9-40
+activity#com.yaho.MainActivity
+ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:30:9-37:20
+	android:label
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:31:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\ff134215dfe6136b5a0a4d8f5d4f57e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\ff134215dfe6136b5a0a4d8f5d4f57e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\ad21ac0ba5211f0a5a1d0073cc642abb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\ad21ac0ba5211f0a5a1d0073cc642abb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\eea13a7eb3300fa97d6c1051147a9a6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\eea13a7eb3300fa97d6c1051147a9a6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\f26265d25dd0282cadba258051a8e1be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\f26265d25dd0282cadba258051a8e1be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\af404f89b579ace3b096237fb16e50e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\af404f89b579ace3b096237fb16e50e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\a46d87017e1f5bc75b486e5f6510b7b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\a46d87017e1f5bc75b486e5f6510b7b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\02892268b9f84f0f701e0bef10374031\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\02892268b9f84f0f701e0bef10374031\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\6846fa7b96fd46667743ae1b372a4e8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\6846fa7b96fd46667743ae1b372a4e8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\45752c3b386131d643b699c52946adee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\45752c3b386131d643b699c52946adee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\ce891467ffff2b5ca1d9e8c7523d4f63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\ce891467ffff2b5ca1d9e8c7523d4f63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\a58db0d41a20296ddccd8e0991e8951b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\a58db0d41a20296ddccd8e0991e8951b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\1d0dc8a92ccca2e88099f770381247d7\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\mahendras\.gradle\caches\transforms-2\files-2.1\1d0dc8a92ccca2e88099f770381247d7\AndroidManifest.xml:20:5-22:41
+INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+		INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+		ADDED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
+		INJECTED from H:\Studio\lab\android-BasicNotifications-master\Application\src\main\AndroidManifest.xml
